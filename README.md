@@ -64,9 +64,15 @@ Cansandra
 5)Create an element that helps you to open the https://google.com in separate new tab.
 
 6)In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
-Design form shown in the link (http://evc-cit.info/cit040/formguide/card_0.png)
-Use the table tag to design given image Click here.
-Write HTML input tags snippet to show default values for all Form elements.
-In your, HTML page add the below line and Highlight it without using any CSS.
+           
+7)Design form shown in the link (http://evc-cit.info/cit040/formguide/card_0.png)
+
+8)Use the table tag to design given image Click here.
+
+9)Write HTML input tags snippet to show default values for all Form elements.
+
+10)In your, HTML page add the below line and Highlight it without using any CSS.
+
 "HTML & CSS is awesome"
-Create an HTML page, which should contain all types of input elements.
+
+11)Create an HTML page, which should contain all types of input elements.
