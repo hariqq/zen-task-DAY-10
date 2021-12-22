@@ -1,0 +1,8 @@
+<html>
+  <head> </head>
+  <body>
+      <form action="https://www.google.com" method="get" target="_blank">
+      <p>practice exercise</p>
+      <button>upload the data</button>
+  </body>
+</html>
